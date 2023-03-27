@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="MetalManager.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="13" Y="6"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unittestmetalmanager.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UnitTestMetalManager"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="3" Y="134"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_logictachesmetalmanager.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unit_logicTachesMetalManager"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="258"/>
+        <CursorPos X="24" Y="273"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitlogicmusicienmetalmanager.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UnitLogicMusicienMetalManager"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="27" Y="218"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_ihmmetalmanager.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit_IHMMetalManager"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="15"/>
+        <CursorPos Y="61"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="10">
+      <Position>
+        <Filename Value="unitlogicmusicienmetalmanager.pas"/>
+        <Caret Line="60" Column="22" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_ihmmetalmanager.pas"/>
+        <Caret Line="45" Column="29" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_logictachesmetalmanager.pas"/>
+        <Caret Line="27" Column="21" TopLine="380"/>
+      </Position>
+      <Position>
+        <Filename Value="unittestmetalmanager.pas"/>
+        <Caret Line="157" Column="18" TopLine="128"/>
+      </Position>
+      <Position>
+        <Filename Value="unittestmetalmanager.pas"/>
+        <Caret Line="139" Column="5" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_logictachesmetalmanager.pas"/>
+        <Caret Line="158" Column="25" TopLine="144"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_logictachesmetalmanager.pas"/>
+        <Caret Line="234" Column="40" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_logictachesmetalmanager.pas"/>
+        <Caret Line="140" Column="3" TopLine="149"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_logictachesmetalmanager.pas"/>
+        <Caret Line="238" Column="11" TopLine="207"/>
+      </Position>
+      <Position>
+        <Filename Value="unittestmetalmanager.pas"/>
+        <Caret Line="148" Column="146" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_logictachesmetalmanager.pas"/>
+        <Caret Line="275" Column="12" TopLine="261"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
